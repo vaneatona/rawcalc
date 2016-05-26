@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Rawcalc\\": "src"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^5.3"
+  }
+}
